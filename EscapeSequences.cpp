@@ -54,5 +54,7 @@ int main()
 	cout << "\t\t\'" << "\tSingle quotation mark \'\n";
 	// Выводит пустую строку
 	cout << "\n";
+
 	return 0;
+
 }
